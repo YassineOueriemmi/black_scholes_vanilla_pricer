@@ -1,7 +1,7 @@
 # Black–Scholes Vanilla Option Pricer
 
 This project implements a **vanilla European option pricer** using the **Black–Scholes model**.  
-It provides a clear and educational implementation for pricing **European call and put options**, computing **Greeks**, and understanding option sensitivities.
+It provides a clear and educational implementation for pricing **European call and put options** and computing **Greeks**.
 
 ---
 
