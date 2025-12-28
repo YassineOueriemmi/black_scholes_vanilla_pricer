@@ -10,12 +10,12 @@ It provides a clear and educational implementation for pricing **European call a
 - European **Call** and **Put** option pricing  
 - Closed-form **Black–Scholes formula**  
 - Analytical computation of main **Greeks**:
-  - Delta
-  - Gamma
-  - Vega
-  - Theta
-  - Rho
-  - 
+  - Delta  
+  - Gamma  
+  - Vega  
+  - Theta  
+  - Rho  
+
 ---
 
 ## Model Assumptions
@@ -32,7 +32,5 @@ The Black–Scholes model assumes:
 
 ## References
 
-Black, F., & Scholes, M. (1973). The Pricing of Options and Corporate Liabilities
-Hull, J. Options, Futures, and Other Derivatives
-
----
+- Black, F., & Scholes, M. (1973). *The Pricing of Options and Corporate Liabilities*  
+- Hull, J. *Options, Futures, and Other Derivatives*
